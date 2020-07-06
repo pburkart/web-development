@@ -1,5 +1,5 @@
 # COMP 205 - Web Development
-In this repository you will find a collection of study materials dedicated to COMP 205 - Web Development.
+This repository is a collection of study materials dedicated to COMP 205 - Web Development.
 
 ## In this repository
 In this repository you will find the following:
