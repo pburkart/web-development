@@ -21,6 +21,23 @@ Below you'll find links to various resources which will help you expand your kno
 * [Just Build Websites](https://github.com/melanierichards/just-build-websites)
 * [App Ideas](https://github.com/florinpop17/app-ideas)
 
+### Cheat Sheets & Check Lists
+* [Front End Checklist](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)
+* [HTML Cheatsheeet](https://github.com/iLoveCodingOrg/html-cheatsheet)
+* [CSS Cheatsheet](https://github.com/iLoveCodingOrg/css-cheatsheet)
+* [JavaScript Cheatsheet](https://github.com/iLoveCodingOrg/javascript-cheatsheet)
+
+# YouTube Channels
+* [Traversy Media](https://www.youtube.com/user/TechGuyWeb)
+* [Dev Ed](https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q)
+* [Chris Hawkes](https://www.youtube.com/c/noobtoprofessional/videos)
+* [freeCodeCamp.org](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
+* [Joshua Fluke](https://www.youtube.com/user/Tychos1)
+* [TechLead](https://www.youtube.com/channel/UC4xKdmAXFh4ACyhpiQ_3qBw)
+* [Amigoscode](https://www.youtube.com/c/amigoscode/videos)
+* [Program with Erik](https://www.youtube.com/c/ProgramWithErik/videos)
+* [Null Byte](https://www.youtube.com/channel/UCgTNupxATBfWmfehv21ym-g)
+
 # Last Thoughts
 The key to being a successful developer is to never stop learning! Keep refining your skills day by day. Remember, it's okay to Google! A large portion of being a developer is knowing how to find solutions to problems, and Google is a great tool for that. 
 
