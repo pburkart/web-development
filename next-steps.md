@@ -27,7 +27,7 @@ Below you'll find links to various resources which will help you expand your kno
 * [CSS Cheatsheet](https://github.com/iLoveCodingOrg/css-cheatsheet)
 * [JavaScript Cheatsheet](https://github.com/iLoveCodingOrg/javascript-cheatsheet)
 
-# YouTube Channels
+## YouTube Channels
 * [Traversy Media](https://www.youtube.com/user/TechGuyWeb)
 * [Dev Ed](https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q)
 * [Chris Hawkes](https://www.youtube.com/c/noobtoprofessional/videos)
