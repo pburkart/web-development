@@ -12,6 +12,18 @@ In this document you will only find two links. You will find one external link p
 
 ## Lists
 
+In this document you will find three different types of lists. The first list is an ordered list which prefaces each list item with a number. You can also stylize this with CSS to make them Roman numerals as well. The second list is an unordered list which simply prefaces each item with a bullet point. Styling an unordered list allows you to change the shape from a solid dot to a hollow one, or a square or triangle. 
+
+In the definition list I forced the style to align the text to the left, as when this list is centered like it was, it's hard to distinguish between a definition and a list item. This list allows people to specify a definition for each of their list items. An example of where this could be used is in a pizza restaraunt, where you list a pizza's name and then all of it's ingredients. 
+
 ## Paragraphs
 
+In this document you will simply find two paragraphs. Paragraphs are just bodies of text which automatically form a new line when the paragraph is closed. 
+
 ## Tables
+
+In this document you will find 6 tables showing the course listing for each semester of the Computer Programming & Analysis program at St. Lawrence. I also force the width of these tables to equal the full width of the page as it looks better that way. 
+
+## Final Thoughts
+
+Feel free to experiment with these documents. Remove certain properties to see how it changes. 
